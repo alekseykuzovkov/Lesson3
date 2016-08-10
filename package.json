@@ -1,0 +1,13 @@
+{
+  "name": "Lesson3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "news.js",
+  "dependencies": {
+    "colors": "1.1.2",
+    "cheerio":"0.20.0"
+  },
+  "devDependencies": {},
+  "author": "Kuzovkov Aleksey",
+  "license": "ISC"
+}
